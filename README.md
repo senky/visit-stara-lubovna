@@ -1,68 +1,25 @@
-# Astro Starter Kit: Blog
+# Visit Stará Ľubovňa
 
-```sh
-npm create astro@latest -- --template blog
-```
+Hello there! This repo is an attempt to publish the most comprehensive guide to Stará Ľubovňa region (including Pieniny National Park), giving a little competition to the official (and commercial) tourist websites. Living in the town for more than 30 years and being naturally curious about the region I think I have visited basically everything there is to see in the surroundings. So get ready for a load of high-quality (and opinionated maybe) content!
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## Motivation
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+It has been a long-living idea of mine to provide tourists with a comprehensive guide to my little, under-visited region. While tourist agencies (of national or regional level) do publish websites and leaflets of various quality, they are all inevitably commercial, listing only selected attractions and services (that pay for that of course). Benefiting from many travelogues in my travels, I want to give back to the community and provide a comprehensive guide to the region, from top spots to hidden gems and local secrets.
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+## Why Astro?
 
-Features:
+I have a long list of technologies I want to try. Astro is one of them, and with title including "for content-driven websites" and desc continuing with "powers the world's fastest marketing sites, blogs, e-commerce websites, and more", I believe it is the best match for this, at least now, seemingly static website.
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+## Why now?
 
-## 🚀 Project Structure
+A situation with my current job allows for that. Also, I purchased `visitstaralubovna.com` already, so there is no turning back!
 
-Inside of your Astro project, you'll see the following folders and files:
+## Why git?
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+It is true I could just use WordPress or any other headless CMS (or even WordPress on itself!), but I guess it will be fun to review the evolution of this website in the future. Also, this format allows others to contribute, too!
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## What's next?
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+[ ] Review high-quality websites for content categorization
+[ ] Start adding content - doesn't need to be perfect, doesn't need to be visually appealing - content is king, right?
+[ ] Analytics - only that will ultimately decide what categories and content type is the most valuable to visitors
