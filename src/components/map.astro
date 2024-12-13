@@ -1,0 +1,6 @@
+---
+const { lat, lng } = Astro.props;
+---
+(<a href={`https://www.google.com/maps/place/${lat},${lng}`} target="_blank" rel="noopener">Google Maps</a>,
+<a href={`http://maps.apple.com/?q=${lat},${lng}`} target="_blank" rel="noopener">Apple Maps</a>,
+<a href={`https://www.waze.com/ul?ll=${lat},${lng}`} target="_blank" rel="noopener">Waze</a>)
