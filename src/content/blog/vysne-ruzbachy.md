@@ -8,3 +8,4 @@ kupele
 krater
 kupalisko
 lyziarsky vlek
+sympozium
